@@ -48,7 +48,6 @@ Outros repositórios de aula com o mesmo tema:
 
 - [AppBroadcastReceiversJava](https://github.com/fabcurvello/AppBroadcastReceiversJava)
 - [AppDetectBatteryLowDBRKotlin](https://github.com/fabcurvello/AppDetectBatteryLowDBRKotlin)
-- [AppDetectChargeDBRJava](https://github.com/fabcurvello/AppDetectChargeDBRJava)
 - [AppDetectChargeDBRKotlin](https://github.com/fabcurvello/AppDetectChargeDBRKotlin)
 - [AppNotifBateryLevelBRDJava](https://github.com/fabcurvello/AppNotifBateryLevelBRDJava)
 - [AppNotifBateryLevelBRDKotlin](https://github.com/fabcurvello/AppNotifBateryLevelBRDKotlin)
